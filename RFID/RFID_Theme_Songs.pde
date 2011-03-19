@@ -1,7 +1,6 @@
 // RFID reader for Arduino 
 // Wiring version by BARRAGAN <http://people.interaction-ivrea.it/h.barragan> 
 // Modified for Arudino by djmatic
-//Hacked together by nick siemsen (git user:elighcash). This line is to test if my git repo is working.
 
 #include <FatReader.h>
 #include <SdReader.h>
